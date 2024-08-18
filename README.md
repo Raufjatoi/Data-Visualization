@@ -1,2 +1,13 @@
-# Data Visualization
- Will Release Soon after the Pandas series altho im developing both together stay tuned 
+# Data Visualization Series 
+
+## code 
+code of each video
+
+## ss
+screen shots of code 
+
+## pdf 
+pdf of each video
+
+## link 
+coming soon 
